@@ -7,7 +7,6 @@ __pycache__/
 
 # Environment variables
 .env
-*.env.*
 
 # Django-related files
 db.sqlite3
